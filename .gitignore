@@ -63,3 +63,6 @@ typings/
 # ide stuff
 .idea
 .vscode
+
+# ignore output
+output/
