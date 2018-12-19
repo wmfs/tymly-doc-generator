@@ -1,4 +1,11 @@
 # tymly-doc-generator
+
+[![Build Status](https://travis-ci.com/wmfs/tymly-doc-generator.svg?token=nmm9if9qp6sBNJ5PjroH&branch=master)](https://travis-ci.com/wmfs/safe-and-well-blueprint)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wmfs/tymly-doc-generator/LICENSE)
+
+
 > A package to help us generate tymly-docs as Markdown files
 
 Tymly-doc-generator (with the aid of the Tymly-gatherer package) generates a series of Markdown files that describe the contents of any _Tymly shaped repo_
