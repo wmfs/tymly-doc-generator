@@ -13,6 +13,7 @@
   },
   "keywords": [
     "tymly",
+    "package",
     "docs"
   ],
   "author": "Reece Brend",
@@ -22,7 +23,7 @@
   },
   "homepage": "https://github.com/wmfs/tymly-doc-generator#readme",
   "dependencies": {
-    "@wmfs/tymly-gatherer": "1.0.0",
+    "@wmfs/tymly-gatherer": "1.0.1",
     "ejs": "2.6.1"
   },
   "devDependencies": {
