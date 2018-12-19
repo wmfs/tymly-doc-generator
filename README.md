@@ -8,7 +8,7 @@
 
 > A package to help us generate tymly-docs as Markdown files
 
-Tymly-doc-generator (with the aid of the Tymly-gatherer package) generates a series of Markdown files that describe the contents of any _Tymly shaped repo_
+Tymly-doc-generator (with the aid of the [Tymly-gatherer](https://github.com/wmfs/tymly-gatherer) package) generates a series of Markdown files that describe the contents of any _Tymly shaped repo_
 
 ## Usage
 In order to generate docs, this package exposes two functions:
