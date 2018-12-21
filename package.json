@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/wmfs/tymly-doc-generator#readme",
   "dependencies": {
-    "@wmfs/tymly-gatherer": "1.0.1",
+    "@wmfs/tymly-gatherer": "1.0.2",
     "ejs": "2.6.1"
   },
   "devDependencies": {
