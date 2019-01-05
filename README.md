@@ -37,3 +37,7 @@ $ npm run test
 ```
 PLUGINS_PATH=C:/path/to/your/tymly/plugins
 ```
+
+
+## <a name='license'></a>License
+[MIT](https://github.com/wmfs/tymly/packages/tymly-doc-generator/blob/master/LICENSE)
