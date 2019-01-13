@@ -35,7 +35,8 @@ $ npm run test
 
 ### Environment Variables
 ```
-PLUGINS_PATH=C:/path/to/your/tymly/plugins
+TYMLY_MONOREPO_PATH=C:/development/tymly
+CARDSCRIPT_MONOREPO_PATH=c:/development/tymly/cardscripts/cardscript
 ```
 
 
