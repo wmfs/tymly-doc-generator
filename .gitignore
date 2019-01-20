@@ -68,3 +68,5 @@ typings/
 
 # ignore output
 output/
+
+package-lock.json
