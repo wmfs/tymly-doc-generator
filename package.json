@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/wmfs/tymly-doc-generator#readme",
   "dependencies": {
-    "@wmfs/tymly-gatherer": "0.0.0-semantically-released",
+    "@wmfs/tymly-gatherer": "1.7.0",
     "@wmfs/cardscript-assets": "0.0.0-semantically-released",
     "@wmfs/json-schema-markdown-a-tron": "0.0.0-semantically-released",
 
