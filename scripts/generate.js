@@ -13,7 +13,6 @@ async function main () {
     skipGathering: skipGathering,
     outputDir: process.env.TYMLY_DOCS_OUTPUT_PATH,
     tymlyRootPath: process.env.TYMLY_MONOREPO_PATH,
-    cardscriptRootPath: process.env.CARDSCRIPT_MONOREPO_PATH,
     assetsOutputRootDir: path.resolve(__dirname, '..', 'output'),
     pluginVersionSource: 'local'
   }
