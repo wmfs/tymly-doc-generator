@@ -4,7 +4,8 @@
   "description": "A package to help us generate tymly-docs as Markdown files",
   "main": "index.js",
   "scripts": {
-    "test": "nyc mocha && standard",
+    "lint": "standard",
+    "test": "nyc mocha",
     "generate": "node ./scripts/generate"
   },
   "repository": {
