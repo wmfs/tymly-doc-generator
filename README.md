@@ -1,10 +1,6 @@
 # tymly-doc-generator
 
-[![Build Status](https://travis-ci.com/wmfs/tymly-doc-generator.svg?token=nmm9if9qp6sBNJ5PjroH&branch=master)](https://travis-ci.com/wmfs/safe-and-well-blueprint)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wmfs/tymly-doc-generator/LICENSE)
-
+[![Tymly Package](https://img.shields.io/badge/tymly-package-blue.svg)](https://tymly.io/) [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/tymly-doc-generator.svg)](https://www.npmjs.com/package/@wmfs/tymly-doc-generator) [![CircleCI](https://circleci.com/gh/wmfs/tymly-doc-generator.svg?style=svg)](https://circleci.com/gh/wmfs/tymly-doc-generator)
 
 > A package to help us generate tymly-docs as Markdown files
 

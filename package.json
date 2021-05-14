@@ -1,11 +1,12 @@
 {
   "name": "tymly-doc-generator",
-  "version": "1.0.0",
+  "version": "0.0.0-semantically-released",
   "description": "A package to help us generate tymly-docs as Markdown files",
   "main": "index.js",
   "scripts": {
     "lint": "standard",
     "test": "nyc mocha",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "generate": "node ./scripts/generate"
   },
   "repository": {
@@ -24,7 +25,7 @@
   },
   "homepage": "https://github.com/wmfs/tymly-doc-generator#readme",
   "dependencies": {
-    "@wmfs/cardscript-assets": "1.0.0",
+    "@wmfs/cardscript-assets": "1.0.1",
     "@wmfs/json-schema-markdown-a-tron": "1.7.0",
     "@wmfs/tymly-gatherer": "1.30.0",
     "lodash": "4.17.21",
@@ -35,6 +36,7 @@
     "@semantic-release/changelog": "5.0.1",
     "@semantic-release/git": "9.0.0",
     "chai": "4.3.4",
+    "codecov": "3.8.2",
     "conventional-changelog-metahub": "4.0.1",
     "cz-conventional-changelog": "3.3.0",
     "debug": "4.3.1",
