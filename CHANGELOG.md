@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/wmfs/tymly-doc-generator/compare/v1.0.0...v1.0.1) (2021-05-14)
+
+
+### 🐛 Bug Fixes
+
+* scoping for package ([a55c337](https://github.com/wmfs/tymly-doc-generator/commit/a55c3371533da68cd6e595288924b4f1d07ab4b9))
+
 # 1.0.0 (2021-05-14)
 
 
