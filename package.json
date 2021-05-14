@@ -1,6 +1,6 @@
 {
   "name": "tymly-doc-generator",
-  "version": "1.0.0",
+  "version": "0.0.0-semantically-released",
   "description": "A package to help us generate tymly-docs as Markdown files",
   "main": "index.js",
   "scripts": {
