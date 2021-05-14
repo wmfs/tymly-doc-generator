@@ -6,6 +6,7 @@
   "scripts": {
     "lint": "standard",
     "test": "nyc mocha",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "generate": "node ./scripts/generate"
   },
   "repository": {
