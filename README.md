@@ -1,6 +1,6 @@
 # tymly-doc-generator
 
-
+[![Tymly Package](https://img.shields.io/badge/tymly-package-blue.svg)](https://tymly.io/) [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/tymly-doc-generator.svg)](https://www.npmjs.com/package/@wmfs/tymly-doc-generator) [![CircleCI](https://circleci.com/gh/wmfs/tymly-doc-generator.svg?style=svg)](https://circleci.com/gh/wmfs/tymly-doc-generator)
 
 > A package to help us generate tymly-docs as Markdown files
 
