@@ -1,3 +1,26 @@
+# [1.1.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.0.1...v1.1.0) (2021-08-02)
+
+
+### ✨ Features
+
+* added code that  iterate over schema ([a3d58d1](https://github.com/wmfs/tymly-doc-generator/commit/a3d58d1f27eaa38ea927b88501b261530ab94692))
+* created template for services ([4b2e5e2](https://github.com/wmfs/tymly-doc-generator/commit/4b2e5e22acf0e19cd3a999f5ff6dfc6d548b75f5))
+* fixed issue when service.schema.properties was empty and returned schema heading ([d78aba0](https://github.com/wmfs/tymly-doc-generator/commit/d78aba024b2e9f97078535451405807c0de8a8e0))
+* made change so it only shows MethodDefinitoins and ClassDeclarations ([393472b](https://github.com/wmfs/tymly-doc-generator/commit/393472ba933bf51a5a966e96cdc55f471ac7a878))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency codecov to v3.8.3 ([f0285bd](https://github.com/wmfs/tymly-doc-generator/commit/f0285bd464fbea3b4e12b94d9e83134fcad0aaa1))
+* **deps-dev:** update dependency debug to v4.3.2 ([f74c60e](https://github.com/wmfs/tymly-doc-generator/commit/f74c60e30457a6e51f75aa0eb16cb5df308a7f1c))
+* **deps-dev:** update dependency mocha to v9 ([020f8dc](https://github.com/wmfs/tymly-doc-generator/commit/020f8dcdfb4f51042d0622acba5a979310be1ebb))
+* **deps-dev:** update dependency semantic-release to v17.4.4 ([b0829b0](https://github.com/wmfs/tymly-doc-generator/commit/b0829b04accdf6d19945260d577295c3f0f5220f))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([f2eea7c](https://github.com/wmfs/tymly-doc-generator/commit/f2eea7c8cd308abc820316ca3b49ce145e249640))
+
 ## [1.0.1](https://github.com/wmfs/tymly-doc-generator/compare/v1.0.0...v1.0.1) (2021-05-14)
 
 
