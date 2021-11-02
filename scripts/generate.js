@@ -24,6 +24,13 @@ async function main () {
   console.log('Done.')
 })().catch(e => {
   // Deal with the fact the chain failed
+  console.log('-----')
+  console.log('ERROR')
   console.error(e)
+  console.log('-----')
+  console.log(`Name: ${e.name}`)
+  console.log(`Message: ${e.message}`)
+  console.log(`Stack: ${e.stack}`)
+  console.log('-----')
   throw (new Error(e))
 })
