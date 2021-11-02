@@ -1,3 +1,21 @@
+## [1.2.1](https://github.com/wmfs/tymly-doc-generator/compare/v1.2.0...v1.2.1) (2021-11-02)
+
+
+### 🐛 Bug Fixes
+
+* add some more error logging ([f7e948a](https://github.com/wmfs/tymly-doc-generator/commit/f7e948a3917279902e01454352464bedd15c33c0))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([0b47803](https://github.com/wmfs/tymly-doc-generator/commit/0b47803c76fd43687f7f0864102e8c6a5bceeec2))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([e55edb2](https://github.com/wmfs/tymly-doc-generator/commit/e55edb2e1d9212c0b4415497d12dcba8e2cc7bbe))
+* **deps-dev:** update dependency mocha to v9.1.2 ([8476b0d](https://github.com/wmfs/tymly-doc-generator/commit/8476b0dc47f023e79f91c6228663f48540012e19))
+* **deps-dev:** update dependency mocha to v9.1.3 ([36c09ba](https://github.com/wmfs/tymly-doc-generator/commit/36c09ba21f4c57e5d3ed0aa8efd339ffb35aecfb))
+* **deps-dev:** update dependency semantic-release to v18 ([5e59a90](https://github.com/wmfs/tymly-doc-generator/commit/5e59a90cf85f5abebd02a55ca7fbf420c7bcd2d1))
+* **deps-dev:** update dependency standard to v16.0.4 ([5e30357](https://github.com/wmfs/tymly-doc-generator/commit/5e3035779aed6cb2b692c382333f9d8831d67b00))
+* **deps-dev:** update semantic-release monorepo ([aab0f76](https://github.com/wmfs/tymly-doc-generator/commit/aab0f76036c839ac2b6c8c1c88fe252ddc2dd75c))
+
 # [1.2.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.1.0...v1.2.0) (2021-09-13)
 
 
