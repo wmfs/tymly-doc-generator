@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.2.1...v1.3.0) (2021-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update deps ([a29dda6](https://github.com/wmfs/tymly-doc-generator/commit/a29dda65587198ec79fa669b6222727c7c25642a))
+
 ## [1.2.1](https://github.com/wmfs/tymly-doc-generator/compare/v1.2.0...v1.2.1) (2021-11-02)
 
 
