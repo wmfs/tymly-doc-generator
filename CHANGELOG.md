@@ -1,3 +1,12 @@
+# [1.4.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.3.0...v1.4.0) (2022-01-10)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency debug to v4.3.3 ([91e2696](https://github.com/wmfs/tymly-doc-generator/commit/91e2696c00d987890b6e4de0a570b8670a03a95a))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([efed9df](https://github.com/wmfs/tymly-doc-generator/commit/efed9dfcc006430d6f4891c30098fce10dd56e4e))
+* **deps:** update dependency mem-fs-editor to v9.4.0 ([662f0af](https://github.com/wmfs/tymly-doc-generator/commit/662f0aff3145c6d02c2581825d04f4df535ce68b))
+
 # [1.3.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.2.1...v1.3.0) (2021-11-02)
 
 
