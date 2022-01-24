@@ -1,3 +1,13 @@
+# [1.5.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.4.0...v1.5.0) (2022-01-24)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.1.4 ([d6c9ec8](https://github.com/wmfs/tymly-doc-generator/commit/d6c9ec8734135eac6d962f0390b0da445860aaf8))
+* **deps-dev:** update dependency mocha to v9.2.0 ([f782a8c](https://github.com/wmfs/tymly-doc-generator/commit/f782a8c46d37948e998d11f983392af6853175cd))
+* **deps-dev:** update dependency semantic-release to v19 ([261f6bf](https://github.com/wmfs/tymly-doc-generator/commit/261f6bfffca133dcb83b65f350882389a36ec417))
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly-gatherer to 1.34.0 ([b008094](https://github.com/wmfs/tymly-doc-generator/commit/b008094a4a570090a680a1445494d0c72fa48bb4))
+
 # [1.4.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.3.0...v1.4.0) (2022-01-10)
 
 
