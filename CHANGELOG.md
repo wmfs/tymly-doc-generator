@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.5.0...v1.6.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly-gatherer to v1.37.0 ([9aa3e9b](https://github.com/wmfs/tymly-doc-generator/commit/9aa3e9b57aba9331b53adba99e47b29edc1a6dd3))
+
 # [1.5.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.4.0...v1.5.0) (2022-01-24)
 
 
