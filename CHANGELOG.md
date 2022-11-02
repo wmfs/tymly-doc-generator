@@ -1,3 +1,20 @@
+# [1.7.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.6.0...v1.7.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.5 ([021325f](https://github.com/wmfs/tymly-doc-generator/commit/021325f3e2f09286b1a78ca832385eb1496b49ca))
+* **deps-dev:** update dependency chai to v4.3.6 ([6569e43](https://github.com/wmfs/tymly-doc-generator/commit/6569e43806dc598577e7da9be1b523f7b9bfc2b1))
+* **deps-dev:** update dependency debug to v4.3.4 ([44b1b8c](https://github.com/wmfs/tymly-doc-generator/commit/44b1b8c2cbf9115bff761946ef290a8d60f71ca3))
+* **deps-dev:** update dependency mocha to v10 ([ffb4481](https://github.com/wmfs/tymly-doc-generator/commit/ffb448120df4a335c773a925f43a45c0b5efc9f1))
+* **deps-dev:** update dependency mocha to v10.1.0 ([bfcc248](https://github.com/wmfs/tymly-doc-generator/commit/bfcc24813718868e91d438b14516b8515d2729b7))
+* **deps-dev:** update dependency mocha to v9.2.1 ([face597](https://github.com/wmfs/tymly-doc-generator/commit/face59786aeb9c21403cfe1e6d7f739725de7548))
+* **deps-dev:** update dependency mocha to v9.2.2 ([a2579ed](https://github.com/wmfs/tymly-doc-generator/commit/a2579edc6062774aa983e3d7b737282d03e2dc05))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([b5a457f](https://github.com/wmfs/tymly-doc-generator/commit/b5a457fcb89135759d1dee0784ecea02f3908f21))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([cf42260](https://github.com/wmfs/tymly-doc-generator/commit/cf42260654b73dcd7f852e16b9687562639b6193))
+* **deps-dev:** update dependency standard to v17 ([e2c5dab](https://github.com/wmfs/tymly-doc-generator/commit/e2c5dab05ed90b28d45fca9d206b26783e48ebcc))
+* **deps:** update dependency mem-fs-editor to v9.5.0 ([ea3b88f](https://github.com/wmfs/tymly-doc-generator/commit/ea3b88fbd3dc8d2d734de5eb40cdfc6425d01c56))
+
 # [1.6.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.5.0...v1.6.0) (2022-01-25)
 
 
