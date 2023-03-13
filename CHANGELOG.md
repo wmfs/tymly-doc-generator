@@ -1,3 +1,20 @@
+# [1.11.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.10.0...v1.11.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([9c62808](https://github.com/wmfs/tymly-doc-generator/commit/9c62808e4b6ca089e3f236e6de666ea9a097759c))
+* **deps-dev:** update dependency chai to v4.3.7 ([bfec75a](https://github.com/wmfs/tymly-doc-generator/commit/bfec75a999defff763c2d93d45dcee70fe431a00))
+* **deps-dev:** update dependency mocha to v10.2.0 ([47f5edb](https://github.com/wmfs/tymly-doc-generator/commit/47f5edbf0b7db7307db48032f08324863dc3c479))
+* **deps-dev:** update dependency semantic-release to v20 ([bebdb41](https://github.com/wmfs/tymly-doc-generator/commit/bebdb414a34aedb2108fb612369c2763e58fc5e2))
+* **deps-dev:** update dependency semantic-release to v20.0.1 ([2195442](https://github.com/wmfs/tymly-doc-generator/commit/2195442744a2feb9759c210624261831e309359d))
+* **deps-dev:** update dependency semantic-release to v20.0.2 ([758d406](https://github.com/wmfs/tymly-doc-generator/commit/758d406dd4c868ec06a135da5ad31cdbb78bebe9))
+* **deps-dev:** update dependency semantic-release to v20.0.3 ([d2bd9c6](https://github.com/wmfs/tymly-doc-generator/commit/d2bd9c6bc029669ae00f2f4ab660f354e8217be7))
+* **deps-dev:** update dependency semantic-release to v20.0.4 ([53d3314](https://github.com/wmfs/tymly-doc-generator/commit/53d3314fd7428def1f7f698f5e0a91cf39dc796a))
+* **deps-dev:** update dependency semantic-release to v20.1.0 ([10d44a4](https://github.com/wmfs/tymly-doc-generator/commit/10d44a45c4a67137e1ce187587be8f516f06ce8c))
+* **deps-dev:** update dependency semantic-release to v20.1.1 ([5b3d2dc](https://github.com/wmfs/tymly-doc-generator/commit/5b3d2dc8fe997f8b7bac81dc2e72213f6f3b8d37))
+* **deps:** update dependency mem-fs to v2.3.0 ([9b95a2c](https://github.com/wmfs/tymly-doc-generator/commit/9b95a2c27c54dba7b99aa69e158c3ca914fcdc10))
+
 # [1.10.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.9.0...v1.10.0) (2022-11-02)
 
 
