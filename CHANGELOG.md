@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.13.0...v1.14.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/json-schema-markdown-a-tron to v1.8.0 ([f783a6c](https://github.com/wmfs/tymly-doc-generator/commit/f783a6c605cd1ba4db37d92fded7a55b1e420854))
+
 # [1.13.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.12.0...v1.13.0) (2023-03-13)
 
 
