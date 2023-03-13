@@ -26,7 +26,7 @@
   "homepage": "https://github.com/wmfs/tymly-doc-generator#readme",
   "dependencies": {
     "@wmfs/cardscript-assets": "1.0.1",
-    "@wmfs/json-schema-markdown-a-tron": "1.7.0",
+    "@wmfs/json-schema-markdown-a-tron": "1.8.0",
     "@wmfs/tymly-gatherer": "1.47.0",
     "lodash": "4.17.21",
     "mem-fs": "2.3.0",
