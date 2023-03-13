@@ -30,7 +30,7 @@
     "@wmfs/tymly-gatherer": "1.42.0",
     "lodash": "4.17.21",
     "mem-fs": "2.3.0",
-    "mem-fs-editor": "9.5.0"
+    "mem-fs-editor": "9.7.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.2",
