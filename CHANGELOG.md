@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.11.0...v1.12.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency mem-fs-editor to v9.7.0 ([196f7e0](https://github.com/wmfs/tymly-doc-generator/commit/196f7e0ae423b10cb43b38d881f7d1b63040f3e3))
+
 # [1.11.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.10.0...v1.11.0) (2023-03-13)
 
 
