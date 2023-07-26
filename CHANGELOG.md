@@ -1,3 +1,20 @@
+# [1.15.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.14.0...v1.15.0) (2023-07-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([b51044c](https://github.com/wmfs/tymly-doc-generator/commit/b51044c34363211d8b2f3db656bac83441c2a56c))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([2ec995f](https://github.com/wmfs/tymly-doc-generator/commit/2ec995f34ab2876a8db13a2ca01cec1e1050be66))
+* **deps-dev:** update dependency semantic-release to v21 ([5c1437a](https://github.com/wmfs/tymly-doc-generator/commit/5c1437a9ebdea8718d283e89e83297a051d288b3))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([29ff68c](https://github.com/wmfs/tymly-doc-generator/commit/29ff68ca3e8ec96fb38283725b47de331556c2cc))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([b5c3aab](https://github.com/wmfs/tymly-doc-generator/commit/b5c3aab9ce71c44689ca45bd934c88847b5edcc4))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([85c4aba](https://github.com/wmfs/tymly-doc-generator/commit/85c4aba6260c795fba077f31119b46f1ec579d2a))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([6ce74dd](https://github.com/wmfs/tymly-doc-generator/commit/6ce74dd9a925cc2877d9259678c689950b3ceff1))
+* **deps-dev:** update dependency semantic-release to v21.0.6 ([3b95d52](https://github.com/wmfs/tymly-doc-generator/commit/3b95d520a04ef7d37c6b15211866eccfcc3ef29c))
+* **deps-dev:** update dependency semantic-release to v21.0.7 ([0f4cd80](https://github.com/wmfs/tymly-doc-generator/commit/0f4cd804d066e57644017f09d332ca81a58251ff))
+* **deps-dev:** update dependency standard to v17.1.0 ([beb8f5c](https://github.com/wmfs/tymly-doc-generator/commit/beb8f5cba92de2b5df6a50d1d20a01ac2e547f43))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/json-schema-markdown-a-tron to v1.10.0 ([b0f4c85](https://github.com/wmfs/tymly-doc-generator/commit/b0f4c853540adaa61d1477a2387a701916241d22))
+
 # [1.14.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.13.0...v1.14.0) (2023-03-13)
 
 
