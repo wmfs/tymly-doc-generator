@@ -1,3 +1,5 @@
+# [1.20.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.19.0...v1.20.0) (2024-11-05)
+
 # [1.19.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.18.0...v1.19.0) (2024-11-04)
 
 # [1.18.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.17.0...v1.18.0) (2024-11-04)
