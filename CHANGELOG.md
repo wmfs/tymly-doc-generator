@@ -1,3 +1,11 @@
+## [1.24.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.23.0...v1.24.0) (2025-04-25)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency chai to v5.2.0 ([#239](https://github.com/wmfs/tymly-doc-generator/issues/239)) ([540297b](https://github.com/wmfs/tymly-doc-generator/commit/540297b4046492169c4ac5feb13d71c28425d1ac))
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#240](https://github.com/wmfs/tymly-doc-generator/issues/240)) ([ff71076](https://github.com/wmfs/tymly-doc-generator/commit/ff71076ad720dea70178ea8ac0f4c41a33e1c102))
+* **deps:** update dependency @wmfs/tymly-gatherer to v1.60.0 ([#241](https://github.com/wmfs/tymly-doc-generator/issues/241)) ([b734b50](https://github.com/wmfs/tymly-doc-generator/commit/b734b50352f096a027584003c00808a95fa94cab))
+
 ## [1.23.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.22.0...v1.23.0) (2025-02-12)
 
 ### Build system dependencies :hammer:
