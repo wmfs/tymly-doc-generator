@@ -43,7 +43,7 @@
     "debug": "4.4.1",
     "mocha": "11.4.0",
     "nyc": "17.1.0",
-    "semantic-release": "24.2.4",
+    "semantic-release": "24.2.5",
     "standard": "17.1.2"
   },
   "config": {
