@@ -1,3 +1,16 @@
+## [1.26.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.25.0...v1.26.0) (2025-06-16)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#248](https://github.com/wmfs/tymly-doc-generator/issues/248)) ([2913529](https://github.com/wmfs/tymly-doc-generator/commit/29135298d52ebf3ebf507b27f1ae3afc98ccea2e))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#245](https://github.com/wmfs/tymly-doc-generator/issues/245)) ([68619ff](https://github.com/wmfs/tymly-doc-generator/commit/68619ff2cab95d932e705f6c88149d4162d4c9da))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#247](https://github.com/wmfs/tymly-doc-generator/issues/247)) ([9b47503](https://github.com/wmfs/tymly-doc-generator/commit/9b4750319fc025652e7b68b71d22fd8e727abe08))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#250](https://github.com/wmfs/tymly-doc-generator/issues/250)) ([bb8adc6](https://github.com/wmfs/tymly-doc-generator/commit/bb8adc68038917945bbc086d7cd79d93b7216aaf))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#251](https://github.com/wmfs/tymly-doc-generator/issues/251)) ([e480341](https://github.com/wmfs/tymly-doc-generator/commit/e48034156e1b8ca8a5694b89c28e1500485eddd8))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#246](https://github.com/wmfs/tymly-doc-generator/issues/246)) ([e080d7f](https://github.com/wmfs/tymly-doc-generator/commit/e080d7fe8b330f6863222b66610609af6d5fa092))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#249](https://github.com/wmfs/tymly-doc-generator/issues/249)) ([e13b288](https://github.com/wmfs/tymly-doc-generator/commit/e13b2886e45ab400d45b39459e21d2128d093c07))
+* **deps:** update dependency @wmfs/tymly-gatherer to v1.62.0 ([#252](https://github.com/wmfs/tymly-doc-generator/issues/252)) ([f1ede94](https://github.com/wmfs/tymly-doc-generator/commit/f1ede94793a315f46898b80dabe592e75a355601))
+
 ## [1.25.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.24.0...v1.25.0) (2025-05-14)
 
 ### Build system dependencies :hammer:
