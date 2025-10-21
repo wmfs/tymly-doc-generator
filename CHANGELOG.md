@@ -1,3 +1,22 @@
+## [1.28.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.27.0...v1.28.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#264](https://github.com/wmfs/tymly-doc-generator/issues/264)) ([fca44b0](https://github.com/wmfs/tymly-doc-generator/commit/fca44b0c40d7a69149bbea50977b05e2e2feb1b9))
+* **deps-dev:** update dependency chai to v5.3.1 ([#260](https://github.com/wmfs/tymly-doc-generator/issues/260)) ([c681ebb](https://github.com/wmfs/tymly-doc-generator/commit/c681ebbf481912bf085c309fd6b427ee66ca081d))
+* **deps-dev:** update dependency chai to v5.3.3 ([#261](https://github.com/wmfs/tymly-doc-generator/issues/261)) ([7f4f031](https://github.com/wmfs/tymly-doc-generator/commit/7f4f03155977849912409371206bfcd64a9282e3))
+* **deps-dev:** update dependency chai to v6 ([#262](https://github.com/wmfs/tymly-doc-generator/issues/262)) ([1b77ca7](https://github.com/wmfs/tymly-doc-generator/commit/1b77ca770248f21e07af4c0007145149c7626173))
+* **deps-dev:** update dependency chai to v6.2.0 ([#268](https://github.com/wmfs/tymly-doc-generator/issues/268)) ([dba0594](https://github.com/wmfs/tymly-doc-generator/commit/dba059414c84a6f92fbdb60f4728d13fd8895e99))
+* **deps-dev:** update dependency debug to v4.4.3 ([#266](https://github.com/wmfs/tymly-doc-generator/issues/266)) ([affab00](https://github.com/wmfs/tymly-doc-generator/commit/affab00043fa21c7c96181422378c7e3ef78dcb9))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#263](https://github.com/wmfs/tymly-doc-generator/issues/263)) ([96db564](https://github.com/wmfs/tymly-doc-generator/commit/96db5648240529ce13fef1d92bf7efd64dffffd5))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#269](https://github.com/wmfs/tymly-doc-generator/issues/269)) ([c8ab08f](https://github.com/wmfs/tymly-doc-generator/commit/c8ab08f81b1e906033625a3b13015abf973799a0))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#270](https://github.com/wmfs/tymly-doc-generator/issues/270)) ([e28c5e6](https://github.com/wmfs/tymly-doc-generator/commit/e28c5e642fe2aab9659a909d42deef15fc380791))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#265](https://github.com/wmfs/tymly-doc-generator/issues/265)) ([9ba14dd](https://github.com/wmfs/tymly-doc-generator/commit/9ba14dd1f96afec7320791abdf889d7fdc21bc90))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#267](https://github.com/wmfs/tymly-doc-generator/issues/267)) ([a1fee12](https://github.com/wmfs/tymly-doc-generator/commit/a1fee121c09b7cdde41afdedf260b01cdccc53b9))
+* **deps-dev:** update dependency semantic-release to v25 ([#271](https://github.com/wmfs/tymly-doc-generator/issues/271)) ([5136abf](https://github.com/wmfs/tymly-doc-generator/commit/5136abf99c81168c53b8d099d89391fd32df24f6))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#272](https://github.com/wmfs/tymly-doc-generator/issues/272)) ([11f9ac9](https://github.com/wmfs/tymly-doc-generator/commit/11f9ac9ea1cf7868088db3450a8f4d7c1fbf5fdf))
+* **deps:** revert chai to non-esm ([63efa43](https://github.com/wmfs/tymly-doc-generator/commit/63efa43a9724cdaffaf6087b7ce6d6c4f0448c45))
+
 ## [1.27.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.26.0...v1.27.0) (2025-07-23)
 
 ### Build system dependencies :hammer:
