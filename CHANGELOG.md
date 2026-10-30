@@ -1,3 +1,21 @@
+## [1.29.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.28.1...v1.29.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([ca52fc5](https://github.com/wmfs/tymly-doc-generator/commit/ca52fc50adc21036047669983fd4384279e493b7))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#306](https://github.com/wmfs/tymly-doc-generator/issues/306)) ([3acc749](https://github.com/wmfs/tymly-doc-generator/commit/3acc749ddceb0145e5fa10320e5fbe6dae6a440e))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#312](https://github.com/wmfs/tymly-doc-generator/issues/312)) ([1b4208f](https://github.com/wmfs/tymly-doc-generator/commit/1b4208fcff3c072c82112992077c6701e2219cdd))
+* **deps-dev:** update dependency mocha to v12 ([#308](https://github.com/wmfs/tymly-doc-generator/issues/308)) ([533c664](https://github.com/wmfs/tymly-doc-generator/commit/533c6645c13ae22628830f9098ef36ccbab8d8e1))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#309](https://github.com/wmfs/tymly-doc-generator/issues/309)) ([c9f37b0](https://github.com/wmfs/tymly-doc-generator/commit/c9f37b03ab46e3d63bcf79310bdaf06ac40ed997))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#310](https://github.com/wmfs/tymly-doc-generator/issues/310)) ([5e31f12](https://github.com/wmfs/tymly-doc-generator/commit/5e31f1268ab8b7357db8c58bf570ccfe85d45041))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#311](https://github.com/wmfs/tymly-doc-generator/issues/311)) ([9fb77d6](https://github.com/wmfs/tymly-doc-generator/commit/9fb77d6f113821ee0f46c870973f5861d0d8130d))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#280](https://github.com/wmfs/tymly-doc-generator/issues/280)) ([843e113](https://github.com/wmfs/tymly-doc-generator/commit/843e113f9440f9fb764ec38da5d9a57c5445ac88))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#315](https://github.com/wmfs/tymly-doc-generator/issues/315)) ([c08c8a1](https://github.com/wmfs/tymly-doc-generator/commit/c08c8a13f8e82edb11c4161e79730daac318dfe2))
+* use shared renovate preset [sc-34117] ([#313](https://github.com/wmfs/tymly-doc-generator/issues/313)) ([8d0bf78](https://github.com/wmfs/tymly-doc-generator/commit/8d0bf78109a09511b6054edbd1d66f79ced2eabb))
+
 ## [1.28.1](https://github.com/wmfs/tymly-doc-generator/compare/v1.28.0...v1.28.1) (2026-08-13)
 
 ## [1.28.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.27.0...v1.28.0) (2025-10-21)
