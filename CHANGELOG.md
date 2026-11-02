@@ -1,3 +1,9 @@
+## [1.31.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.30.0...v1.31.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency @wmfs/tymly-gatherer to v1.69.0 ([#316](https://github.com/wmfs/tymly-doc-generator/issues/316)) ([a54e11d](https://github.com/wmfs/tymly-doc-generator/commit/a54e11ddcadb6ff74afe74241b657ae6caa469c5))
+
 ## [1.30.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.29.0...v1.30.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
