@@ -1,3 +1,9 @@
+## [1.33.1](https://github.com/wmfs/tymly-doc-generator/compare/v1.33.0...v1.33.1) (2026-11-05)
+
+### Bug Fix(es) :bug:
+
+* declare missing dependency ([6bbfd9b](https://github.com/wmfs/tymly-doc-generator/commit/6bbfd9bfa12408bacd897623db38ad4cbc42b3fa))
+
 ## [1.33.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.32.0...v1.33.0) (2026-11-04)
 
 ### Build system dependencies :hammer:
