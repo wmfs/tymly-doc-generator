@@ -1,3 +1,9 @@
+## [1.34.1](https://github.com/wmfs/tymly-doc-generator/compare/v1.34.0...v1.34.1) (2026-11-06)
+
+### Bug Fix(es) :bug:
+
+* upgrade mem-fs 6 and mem-fs-editor 12 together, loading them with import() ([#320](https://github.com/wmfs/tymly-doc-generator/issues/320)) ([d858329](https://github.com/wmfs/tymly-doc-generator/commit/d85832984f1f87ae3343217bd42b8c8b50c34c91))
+
 ## [1.34.0](https://github.com/wmfs/tymly-doc-generator/compare/v1.33.1...v1.34.0) (2026-11-06)
 
 ### Build system dependencies :hammer:
