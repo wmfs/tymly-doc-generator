@@ -27,7 +27,7 @@
   "dependencies": {
     "@wmfs/cardscript-assets": "1.0.2",
     "@wmfs/json-schema-markdown-a-tron": "1.12.0",
-    "@wmfs/tymly-gatherer": "1.73.0",
+    "@wmfs/tymly-gatherer": "1.75.0",
     "lodash": "4.18.1",
     "mem-fs": "6.0.0",
     "mem-fs-editor": "12.1.0",
